@@ -1,2 +1,2 @@
 # hello-world
-A short description
+This is my firs time creating a commit message
